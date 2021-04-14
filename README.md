@@ -1,7 +1,7 @@
 # PIZZA
  RECIPE 1
- INGREDIENTS
- NEED  flour , pizza sause , vegetables , morzella cheese , origano , baby corn .
+ 
+ INGREDIENTS NEEDED  flour , pizza sause , vegetables , morzella cheese , origano , baby corn .
 
 1. Take the dough out and roll it into a circle
 2. Puff out the edge of the dough so the crust is thicker at the edge
